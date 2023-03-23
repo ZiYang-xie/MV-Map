@@ -1,5 +1,7 @@
-# MV-Map: Next generation offboard HD-Map generation with Multi-view Consistency
-Welcome to the MV-Map GitHub repository! This repository contains the official implementation of the MV-Map pipeline, a novel offboard High-Definition Map (HD-Map) generation method based on the paper '[MV-Map: Offboard HD-Map Generation with Multi-view Consistency]()'. Explore the power of multi-view consistency and transform your mapping capabilities with our region-centric approach.
+# MV-Map: Next Generation HD-Map Solution
+Welcome to the MV-Map GitHub repository!   
+This repository contains the official implementation of the MV-Map pipeline, a novel offboard High-Definition Map (HD-Map) generation method based on the paper '[MV-Map: Offboard HD-Map Generation with Multi-view Consistency]()'.   
+Explore the power of multi-view consistency and transform your mapping capabilities with our region-centric approach.
 
 Checkout our demo video!
 ## Demo Video
