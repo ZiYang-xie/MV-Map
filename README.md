@@ -3,7 +3,7 @@ Welcome to the MV-Map GitHub repository! This repository contains the official i
 
 Checkout our demo video!
 ## Demo Video
-![Demo Video](https://youtu.be/EmeiwVKtlhg)
+[![Demo Video](https://img.youtube.com/vi/EmeiwVKtlhg/0.jpg)](https://www.youtube.com/embed/EmeiwVKtlhg) 
 
 ## Code Release
 We are pleased to announce that the official implementation of the algorithm presented in our academic paper will be released soon in this repository. The codebase will allow researchers, practitioners, and enthusiasts to explore, understand, and build upon the methods and techniques described in our work.
