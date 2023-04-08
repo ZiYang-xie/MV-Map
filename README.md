@@ -12,7 +12,7 @@ We are pleased to announce that the official implementation of the algorithm pre
 
 ## Reference
 ```
-@article{pang2023standing,
+@article{xie2023mvmap,
   title={MV-Map: Offboard HD-Map Generation with Multi-view Consistency},
   author={Xie, Ziyang and Pang, Ziqi and Wang, Yu-Xiong},
   journal={arXiv},
