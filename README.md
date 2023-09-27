@@ -14,7 +14,7 @@ This repository contains the official implementation of the MV-Map pipeline, a n
 
 
 ## Demo Video
-Checkout our demo video!
+Checkout our demo video!  
 [![Demo Video](https://img.youtube.com/vi/SN14oTyMFrk/0.jpg)](https://www.youtube.com/embed/SN14oTyMFrk)
 
 ## Code Release
